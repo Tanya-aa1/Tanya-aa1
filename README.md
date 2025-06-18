@@ -3,8 +3,7 @@
 ## 🚀 About Me
 - 🎓 I’m a 3rd year student pursuing BTech in Computer Science.
 - 💻 I’m currently working on improving my DSA and CP skills.
-- 🌐 Passionate about front-end development and building responsive web applications.
-- 🎯 Goals: Raise my CGPA, crack OA rounds, and secure a great internship.
+- 🌐 Passionate about back-end development and building responsive web applications.
 - 🧠 Exploring new ideas when time permits.
 - 📫 How to reach me lakhanitanya2004@gmail.com
 
