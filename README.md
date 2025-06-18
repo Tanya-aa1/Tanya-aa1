@@ -1,13 +1,13 @@
 # Hi there, I'm Tanya. 👋
 
-## 🚀 About Me
-- 🎓 I’m a 3rd year student pursuing BTech in Computer Science.
-- 💻 I’m currently working on improving my DSA and CP skills.
-- 🌐 Passionate about back-end development and building responsive web applications.
-- 🧠 Exploring new ideas when time permits.
-- 📫 How to reach me lakhanitanya2004@gmail.com
+##  About Me
+-  I’m a 3rd year student pursuing BTech in Computer Science.
+-  I’m currently working on improving my DSA and CP skills.
+-  Passionate about back-end development and building responsive web applications.
+-  Exploring new ideas when time permits.
+-  How to reach me lakhanitanya2004@gmail.com
 
-## 🛠️ Languages and Tools:
+##  Languages and Tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -30,7 +30,7 @@
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanya-aa1&layout=compact&theme=radical)
 
-## 🌐 Connect with Me
+##  Connect with Me
 <a href="https://www.linkedin.com/in/tanyalakhani">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
